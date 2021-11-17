@@ -1,6 +1,6 @@
 - 👋 Hello! I’m @starchy-tato
 - 📚 I’m interested in expanding my knowledge of front end and back end technologies!
-- 🌱 I’m currently completing my internship through Manpower's TECHCareers Software Development program partnered with SAIT. My goal is to develop technical skills through this program so I am able to successfully transition into the tech industry. I was previously a piping designer in O&G.
+- 🌱 I’m currently completing my internship through Manpower's TECHCareers Software Development program partnered with SAIT. My goal is to develop technical skills through this program so I am able to secure a fullstack role in the tech industry. I have a background as a piping designer in O&G. 
 - ✨ Open to constructive feedback
 - 🇨🇦 🐄 🐶 🎮 🎨 ⌨️ 
 
