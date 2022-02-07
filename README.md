@@ -1,6 +1,6 @@
 - 👋 Hello! I’m @starchy-tato
 - 📚 I’m interested in expanding my knowledge of front end and back end technologies!
-- 🌱 Recently completed my internship through Manpower's TECHCareers Software Development program partnered with SAIT. My goal is to develop technical skills through this program so I am able to secure a fullstack role in the tech industry. I have a background as a piping designer in O&G. 
+- 🌱 Currently completing an internship with Pixeltree! My goal is to develop technical skills with ruby on rails and react through this experience so I am able to secure a fullstack role in the tech industry. I have a background as a piping designer in O&G. 
 - ✨ Open to constructive feedback
 - 🇨🇦 🐄 🐶 🎮 🎨 ⌨️ 
 
