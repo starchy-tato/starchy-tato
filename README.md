@@ -5,11 +5,15 @@
 - 🦺 I have a background as a piping designer in O&G
 - ✨ Open to constructive feedback! I like to keep a positive attitude and a growth mind set =)
 
-## Some Tools I have Used and Learned
-[![My Skills](https://skills.thijs.gg/icons?i=js,react,html,ruby,rails,tailwind)](https://skills.thijs.gg)
+## Learning
+### Things I Am Using
+[![My Skills](https://skills.thijs.gg/icons?i=nextjs,ts,vercel,js,react,materialui,webstorm)](https://skills.thijs.gg)
 
-## What I'm Currently Learning
-[![My Skills](https://skills.thijs.gg/icons?i=ts,nodejs,py,docker)](https://skills.thijs.gg)
+### Things I Have Used
+[![My Skills](https://skills.thijs.gg/icons?i=ruby,rails,html,tailwind)](https://skills.thijs.gg)
+
+### What I'm Currently Learning
+[![My Skills](https://skills.thijs.gg/icons?i=nodejs,py,pycharm,docker,postman)](https://skills.thijs.gg)
 
 ## Fun Facts & Hobbies 🇨🇦 🐄 🐶 🎮 🎨 ⌨️ 
 - I've helped organized not one but TWO hackathons
