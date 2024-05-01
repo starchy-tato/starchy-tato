@@ -7,13 +7,15 @@
 
 ## Learning
 ### Things I Am Using
-[![My Skills](https://skills.thijs.gg/icons?i=nextjs,ts,vercel,js,react,materialui,webstorm)](https://skills.thijs.gg)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,ts,vercel,js,react,materialui,webstorm)](https://skillicons.dev)
 
 ### Things I Have Used
-[![My Skills](https://skills.thijs.gg/icons?i=ruby,rails,html,tailwind)](https://skills.thijs.gg)
+[![My Skills](https://skillicons.dev/icons?i=ruby,rails,html,tailwind)](https://skillicons.dev)
+
 
 ### What I'm Currently Learning
-[![My Skills](https://skills.thijs.gg/icons?i=nodejs,py,pycharm,docker,postman)](https://skills.thijs.gg)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,py,pycharm,docker,postman)](https://skillicons.dev)
+
 
 ## Fun Facts & Hobbies 🇨🇦 🐄 🐶 🎮 🎨 ⌨️ 
 - I've helped organized not one but TWO hackathons
